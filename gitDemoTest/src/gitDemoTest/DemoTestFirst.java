@@ -14,7 +14,7 @@ public class DemoTestFirst {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("print tui di");
+		System.out.println("AAA BBB CCC");
 		//
 	}
 
