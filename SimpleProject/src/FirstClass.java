@@ -16,7 +16,7 @@ public class FirstClass {
 		System.out.println("Show me");
 		System.out.println("This is demo project!!!");
 		System.out.println("Trigger a Build Against !!!");
-		System.out.println("Now build with Poll SCM POLL POLL POLL!!!");
+		System.out.println("Now build with Poll SCM Trigger request!!!");
 
 	}
 
