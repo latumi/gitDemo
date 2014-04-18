@@ -15,7 +15,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		System.out.println("Show me");
 		System.out.println("This is demo project!!!");
-		System.out.println("Trigger a Build 12345678 !!!");
+		System.out.println("Trigger a Build 999999 !!!");
 		System.out.println("Now build with Poll SCM !!!");
 
 	}
